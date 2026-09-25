@@ -1,0 +1,19 @@
+# Inputs exceed GitHub's 100 MB file limit — never commit them.
+# Reviewers must place them next to this README (see README.md).
+trackingData_20260505_165740.txt
+CameraRecord_20260505_165740.mp4
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+
+# Tooling artifacts
+.playwright-mcp/
+

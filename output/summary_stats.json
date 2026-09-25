@@ -1,0 +1,58 @@
+{
+  "input": "trackingData_20260505_165740.txt",
+  "records": 21787,
+  "timing": {
+    "duration_s": 242.542289152,
+    "samples": 21787,
+    "median_dt_s": 0.01112217600000065,
+    "min_dt_s": 0.006187007999997718,
+    "max_dt_s": 0.06740300800001364,
+    "median_rate_hz": 89.91046356395921,
+    "nonpositive_dt_count": 0
+  },
+  "points": [
+    {
+      "point": "head",
+      "active_samples": 21787,
+      "total_samples": 21787,
+      "path_length": 15.89356368175763,
+      "mean_speed": 0.06625604964640493,
+      "median_speed": 0.060311796860585395,
+      "max_speed": 0.4807746994009362,
+      "range_x": 0.20608426500000002,
+      "range_y": 0.087955944,
+      "range_z": 0.261365212
+    },
+    {
+      "point": "left",
+      "active_samples": 21787,
+      "total_samples": 21787,
+      "path_length": 17.36854134827202,
+      "mean_speed": 0.07196625088538722,
+      "median_speed": 0.04322855130266777,
+      "max_speed": 1.3639907048974838,
+      "range_x": 0.18029323100000003,
+      "range_y": 0.21499514200000003,
+      "range_z": 0.37000454835
+    },
+    {
+      "point": "right",
+      "active_samples": 21652,
+      "total_samples": 21787,
+      "path_length": 84.19898645104584,
+      "mean_speed": 0.3513605892540864,
+      "median_speed": 0.34686709419716455,
+      "max_speed": 5.124249238198495,
+      "range_x": 0.453262553,
+      "range_y": 0.40021348599999995,
+      "range_z": 0.534804511
+    }
+  ],
+  "outputs": [
+    "output\\motion_statistics.png",
+    "output\\trajectory_3d.png",
+    "output\\trajectory_3d.html",
+    "output\\viewer"
+  ],
+  "viewer": "output\\viewer"
+}
