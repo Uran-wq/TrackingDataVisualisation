@@ -14,7 +14,7 @@
 
 ![Демо: интерактивный 3D-вьюер](media/viewer_demo.gif)
 
-То же самое в полном качестве (MP4, 720p, ~30 с): [media/viewer_demo.mp4](media/viewer_demo.mp4).
+Интерактивная версия: [github.io/TrackingDataVisualisation](https://uran-wq.github.io/TrackingDataVisualisation/).
 
 ## Примеры результатов
 
@@ -22,7 +22,7 @@
 
 ![3D-траектории](output/trajectory_3d.png)
 
-Интерактивная версия: [`output/trajectory_3d.html`](output/trajectory_3d.html) (открыть в браузере; вращение/зум, при наведении — время).
+Интерактивная версия: [github.io/TrackingDataVisualisation](https://uran-wq.github.io/TrackingDataVisualisation/). (открыть в браузере; вращение/зум, при наведении — время).
 
 ![Интерактивный вьюер](output/viewer_example.png)
 
