@@ -14,7 +14,7 @@ The interactive 3D viewer, full session (242 s) with a camera orbit:
 
 ![Demo: interactive 3D viewer](media/viewer_demo.gif)
 
-The same thing in full quality (MP4, 720p, ~30 s): [media/viewer_demo.mp4](media/viewer_demo.mp4).
+Interactive version: [github.io/TrackingDataVisualisation](https://uran-wq.github.io/TrackingDataVisualisation/).
 
 ## Example results
 
@@ -22,7 +22,7 @@ The same thing in full quality (MP4, 720p, ~30 s): [media/viewer_demo.mp4](media
 
 ![3D trajectories](output/trajectory_3d.png)
 
-Interactive version: [`output/trajectory_3d.html`](output/trajectory_3d.html) (open in a browser; rotate/zoom, hover shows time).
+Interactive version: [github.io/TrackingDataVisualisation](https://uran-wq.github.io/TrackingDataVisualisation/). (open in a browser; rotate/zoom, hover shows time).
 
 ![Interactive viewer](output/viewer_example.png)
 
